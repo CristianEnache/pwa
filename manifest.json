@@ -1,0 +1,32 @@
+{
+    "short_name": "MyPWA",
+    "name": "MyPWA.com",
+    "start_url": "/",
+    "categories": [
+      "technology",
+      "web"
+    ],
+    "display": "standalone",
+    "background_color": "#ffc0cb",
+    "theme_color": "#ffc0cb",
+    "icons": [
+      {
+        "src": "/assets/images/mypwa-144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/assets/images/mypwa-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/images/mypwa-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "handle_links" : "preferred",
+    "orientation": "portrait-primary"
+  }
+  
